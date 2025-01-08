@@ -28,11 +28,11 @@ The repository is structured as follows:
 ```
 
 ## link tree
-- 5 :  [numbers, simple Oprations](https://github.com/AmirBasuti/BP403/tree/master/Session_5)
-- 6 :  [variables, dataTypes, strings](https://github.com/AmirBasuti/BP403/tree/master/Session_6)
-- 7 :  [stringConcatenation stringNumberPrinting stringIndexing](https://github.com/AmirBasuti/BP403/tree/master/Session_7)
-- 8 :  [someStringOperations conditionalStatements](https://github.com/AmirBasuti/BP403/tree/master/Session_8)
-- 9 :  [comparisonOperations logicalOperations](https://github.com/AmirBasuti/BP403/tree/master/Session_9)
+- 5  :  [numbers, simple Oprations](https://github.com/AmirBasuti/BP403/tree/master/Session_5)
+- 6  :  [variables, dataTypes, strings](https://github.com/AmirBasuti/BP403/tree/master/Session_6)
+- 7  :  [stringConcatenation stringNumberPrinting stringIndexing](https://github.com/AmirBasuti/BP403/tree/master/Session_7)
+- 8  :  [someStringOperations conditionalStatements](https://github.com/AmirBasuti/BP403/tree/master/Session_8)
+- 9  :  [comparisonOperations logicalOperations](https://github.com/AmirBasuti/BP403/tree/master/Session_9)
 - 10 : [simpleGame](https://github.com/AmirBasuti/BP403/tree/master/Session_10)
 - 11 : [forLoop](https://github.com/AmirBasuti/BP403/tree/master/Session_11)
 - 12 : [range](https://github.com/AmirBasuti/BP403/tree/master/Session_12)
